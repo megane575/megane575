@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,react,vite,docker,flask,django,python,javascript&perline=6)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=megane575)](https://github.com/megane575/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=megane575)](https://github.com/megane575$show_icons=true/github-readme-stats)
 
 <div align="center">
   <h3>
