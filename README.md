@@ -2,8 +2,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,react,vite,docker,flask,django,python,javascript&perline=6)](https://skillicons.dev)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=megene575)
-
 <div align="center">
   <h3>
     <img src="img/eyeroll.gif" width="30" style="vertical-align: middle;" />
