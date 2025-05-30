@@ -1,8 +1,6 @@
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=25&pause=1000&color=09841DFF&width=435&lines=Hi%F0%9F%91%8B+I'm+meganemama+;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=25&pause=1000&color=09841D&width=435&lines=Hi%E2%98%BA%EF%B8%8FI'm+meganemama%F0%9F%8D%8F;Welcome+to+meganemama's+GitHub%F0%9F%92%90)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=25&pause=1000&color=09841D&width=435&lines=Hi%E2%98%BA%EF%B8%8FI'm+meganemama%F0%9F%8D%8F;Welcome%F0%9F%8D%8Fmeganemama's+GitHub%F0%9F%92%90)](https://git.io/typing-svg)
-
-[![My Skills](https://skillicons.dev/icons?i=aws,react,flask,django,python,javascript&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,vite,docker,flask,django,python,javascript&perline=6)](https://skillicons.dev)
 
 <div align="center">
   <h3>
