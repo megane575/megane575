@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,python,fastapi,remix,mysql,postgresql,dynamodb,firebase,supabase,docker,aws,githubactions,notion,figma,miro&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,python,fastapi,remix,mysql,postgresql,dynamodb,firebase,supabase,docker,aws,githubactions,notion,figma,miro&theme=light&perline=10" />
   </a>
 </p>
 
@@ -24,20 +24,22 @@ Ms.Engineer（ブートキャンプ）でモダンな技術スタックを習得
 - 💼 **Background:** 税務・会計業界での緻密な実務経験
 - 🏠 **Based in:** 東京
 
-> **Domain Knowledge:**
-> 📑 記帳・税務実務 / 🚀 業務プロセス自動化 / 🤝 チームコミュニケーション
->
-> <div align="center">
+- **Domain Knowledge:**
+  📑 記帳・税務実務 / 🚀 業務プロセス自動化 / 🤝 チームコミュニケーション
 
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" style="vertical-align: middle;" />
-    Engineering Insights
-  </h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=megane575&show_icons=true&theme=calm&rank_icon=github&border_radius=10" width="380" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megane575&layout=compact&theme=calm&border_radius=10&exclude_repo=github-readme-stats" width="380" />
+  > <div align="center">
+
+    <h3>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" style="vertical-align: middle;" />
+      Engineering Insights
+    </h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+      <!-- 言語の円グラフ -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=megane575&theme=neutral" width="380" />
+      <!-- 曜日ごとの活動量（いつ頑張っているかがわかる） -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-team-graph?username=megane575&theme=neutral" width="380" />
+    </div>
   </div>
-</div>
 
 <div align="center">
   <h3>
