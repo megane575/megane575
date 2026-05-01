@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/megane575">
+    <img src="img/green_apple_megane.jpg" alt="meganemama-banner" width="100%" height="70" style="object-fit: contain; background-color: #c8f4ce;"/>
+  </a>
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=25&pause=1000&color=09841D&width=435&lines=Hi%E2%98%BA%EF%B8%8FI'm+meganemama%F0%9F%8D%8F;Welcome+to+meganemama's+GitHub%F0%9F%92%90)](https://git.io/typing-svg)
 
 ## 🛠️ My Skills
@@ -8,18 +14,7 @@
   </a>
 </p>
 
-<div align="center">
-  <h3>
-    <img src="img/eyeroll.gif" width="30" style="vertical-align: middle;" />
-    　Language Insights
-   </h3>
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=megane575&theme=github_dark&exclude=HTML,Makefile,JavaScript" alt="Top Languages Used in Repository Card" width="390" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=megane575&theme=github_dark&exclude=HTML,Makefile,JavaScript" alt="Top Languages in Commits Card" width="390" />
-  </div>
-</div>
-
-## 🌸 About Me
+## 🌼 About Me
 
 税理士法人での業務効率化に熱中する中で「自ら仕組みを作りたい」という情熱に目覚め、
 Ms.Engineer（ブートキャンプ）でモダンな技術スタックを習得しました。
@@ -31,3 +26,23 @@ Ms.Engineer（ブートキャンプ）でモダンな技術スタックを習得
 
 > **Domain Knowledge:**
 > 📑 記帳・税務実務 / 🚀 業務プロセス自動化 / 🤝 チームコミュニケーション
+>
+> <div align="center">
+
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" style="vertical-align: middle;" />
+    Engineering Insights
+  </h3>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=megane575&show_icons=true&theme=calm&rank_icon=github&border_radius=10" width="380" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megane575&layout=compact&theme=calm&border_radius=10&exclude_repo=github-readme-stats" width="380" />
+  </div>
+</div>
+
+<div align="center">
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" style="vertical-align: middle;" />
+    Achievements
+  </h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=megane575&theme=flat&column=4&margin-w=15&no-bg=true" alt="github trophy" />
+</div>
