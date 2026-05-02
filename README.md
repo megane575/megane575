@@ -1,6 +1,6 @@
 <div align="right">
   <a href="https://github.com/megane575">
-    <img src="img/yellow_bird.jpg" alt="meganemama-banner" width="1000" height="60"style="object-fit: contain; background-color: #cef9b4;" />
+    <img src="img/yellow_bird.jpg" alt="meganemama-banner" width="800" height="60"style="object-fit: contain; background-color: #cef9b4;" />
   </a>
 </div>
 
